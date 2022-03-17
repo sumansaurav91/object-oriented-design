@@ -56,4 +56,10 @@ class Person
 * Inheritence
 * Polymorphism
 
-## 
+## Abstraction
+
+* Abstraction: It is an act of representing essential features without including background details. It is a technique of creating a new data type that is suited for a specific applications.
+    * While driving a car we do not have to be concered with its internal working. Here we need to concern about parts like steering wheels, gears etc.
+
+
+
