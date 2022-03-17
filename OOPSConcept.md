@@ -25,6 +25,30 @@ class Person
 }
 ```
 
+* Constructors: It is a special method that is used toinitialize objects. It is called when an object of a class is created. It can be used to set initial values for fields.
+```
+// Create a class Person
+class Person
+{
+  public int age; // 
+  
+  // Create a Constructor for the Person class
+  public Person()
+  {
+    age = 25;
+  }
+  
+  static void Main(string[] args)
+  {
+    Person person = new Person(); // Create an object
+    Console.WriteLine(person.age);
+  }
+}
+
+// Output: 25
+```
+* **Constructor** is called when the object is created. All classes have constructor by default.
+
 ## Four pillers of OOPS
 
 * Abstraction
