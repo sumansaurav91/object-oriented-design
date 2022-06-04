@@ -12,6 +12,13 @@ class Person
 }
 ```
 * Object: It is a basic unit of Object Oriented Programming and represents the real life entities.
+* All Objects Have
+  * Identity - Coffee Mug
+  * Attributes - color, size, fullness
+  * Behaviors: fill(), empty(), clean()
+* Objects = Noun
+    * The Mug
+    * The Bank Account
 ```
 class Person
 {
