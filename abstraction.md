@@ -72,3 +72,5 @@ class Circle {
 | Hides un-necessary data to simplify the structure | Restrict access to data to prevent this misuse |
 | Highlights the work that the object performs | Deals with the internal working of the object |
 | Hide implementation using interface and abstract classes | Hide data using getter and setter functions |
+
+**Next:** [➡️ Inheritance](./inheritance.md)
