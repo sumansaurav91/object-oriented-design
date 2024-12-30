@@ -136,3 +136,6 @@ public class main
 * Code modification
 * Extensibility
 * Data hiding
+
+
+**Next:** [➡️ Polymorphism](./polymorphism.md)

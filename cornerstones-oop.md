@@ -46,4 +46,5 @@
 * [Inheritance](./inheritance.md)
 * [Polymorphism](./polymorphism.md)
 
+
 **Next:** [➡️ Encapsulation](./encapsulation.md)
